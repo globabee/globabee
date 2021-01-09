@@ -1,11 +1,14 @@
 # Hello, I'm Boris Elgin
 You have found my Github profile
-Currently I'm working with JS(React, NodeJS), SourcePawn, C++
+Currently I'm working with:
 - JavaScript
     - React
     - NodeJS
-- Git
-- Bash
 - C++
     - SourcePawn
-____
+- Git
+- Bash
+
+## My roadmap
+:heavy_check_mark:
+:x:
