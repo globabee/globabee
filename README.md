@@ -10,5 +10,6 @@ Currently I'm working with:
 - Bash
 
 ## My roadmap
-:heavy_check_mark:
-:x:
+- JavaScript
+    - Learn Basics with OOP:x:
+    - Write some hard projects like(social network):x: :heavy_check_mark:
