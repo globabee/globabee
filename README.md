@@ -5,6 +5,6 @@
 [![Vkontakte](https://img.shields.io/static/v1?label=VK&message=%20&color=red&logo=VK&style=flat-square&logoColor=white)](https://vk.com/globabee)
 ### About Me
 💻 19 Years old JS Developer  
-🎓 Studying IRNITU in Russia, Irkutsk 
+🎓 Studying in IRNITU in Russia, Irkutsk 
 
 ### Tech Stack 
